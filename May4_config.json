@@ -14,6 +14,6 @@
 "package_name_player":"teavideo.tvplayer.videoallformat",
 "pkg_uninstall":"com.aoeplayer.apt",
 "pkg_uninstall_content":"Please uninstall older version!",
-"aoeplayer_version_build":1,
+"aoeplayer_version_build":1
 }
 }
