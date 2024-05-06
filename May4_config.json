@@ -4,7 +4,7 @@
 "update_version_code":1,
 "update_link_download":"https://github.com/faerie97/nhomnhom/releases/download/2/app-release.apk",
 "update_changelog":"Fix bugs and add more links.",
-"update_isforce":true,
+"update_isforce":false,
 "gg_analytics_key":"",
 "pkg_uninstall":"com.flymovie.tvguide",
 "title_player":"AOE Player",
