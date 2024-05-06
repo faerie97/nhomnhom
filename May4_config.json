@@ -10,7 +10,7 @@
 "title_player":"AOE Player",
 "description_player":"Recommended player for less ads and best experience!",
 "link_download_player":"https://github.com/faerie97/nhomnhom/releases/download/1/aoe_player_release_1530.apk",
-"enable_install_player":true,
+"enable_install_player":false,
 "package_name_player":"com.aoeplayer.apt",
 "pkg_uninstall":"teatv.videoplayer.moviesguide",
 "pkg_uninstall_content":"Please uninstall older version!",
