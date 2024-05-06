@@ -4,7 +4,7 @@
 "update_version_code":2,
 "update_link_download":"https://github.com/faerie97/nhomnhom/releases/download/z/app-release.2.apk",
 "update_changelog":"Fix bugs and add more links.",
-"update_isforce":true,
+"update_isforce":false,
 "gg_analytics_key":"",
 "pkg_uninstall":"com.tea.anime",
 "player_is_gp":true,
