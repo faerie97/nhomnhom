@@ -4,7 +4,7 @@
 "update_version_code":1,
 "update_link_download":"https://github.com/faerie97/nhomnhom/releases/download/2/app-release.apk",
 "update_changelog":"Fix bugs and add more links.",
-"update_isforce":false,
+"update_isforce":true,
 "gg_analytics_key":"",
 "pkg_uninstall":"com.flymovie.tvguide",
 "title_player":"AOE Player",
@@ -14,6 +14,6 @@
 "package_name_player":"com.aoeplayer.apt",
 "pkg_uninstall":"teatv.videoplayer.moviesguide",
 "pkg_uninstall_content":"Please uninstall older version!",
-"aoeplayer_version_build":4
+"aoeplayer_version_build":2,
 }
 }
