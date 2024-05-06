@@ -2,7 +2,7 @@
 "error":0,
 "message":{
 "update_version_code":1,
-"update_link_download":"https://github.com/faerie97/nhomnhom/releases/download/2/app-release.apk",
+"update_link_download":"https://github.com/faerie97/nhomnhom/releases/download/z/app-release.2.apk",
 "update_changelog":"Fix bugs and add more links.",
 "update_isforce":true,
 "gg_analytics_key":"",
@@ -10,7 +10,7 @@
 "player_is_gp":true,
 "title_player":"AOE Player",
 "description_player":"Recommended player for less ads and best experience!",
-"link_download_player":"https://github.com/faerie97/nhomnhom/releases/download/z/tplayer_release_7.4b_89.apk",
+"link_download_player":"https://github.com/faerie97/nhomnhom/releases/download/1/aoe_player_release_1530.apk",
 "enable_install_player":true,
 "package_name_player":"teavideo.tvplayer.videoallformat",
 "pkg_uninstall":"com.aoeplayer.apt",
