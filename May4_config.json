@@ -13,6 +13,7 @@
 "link_download_player":"https://github.com/faerie97/nhomnhom/releases/download/1/aoe_player_release_1530.apk",
 "enable_install_player":true,
 "package_name_player":"com.aoeplayer.apt",
+"force_update_player":true,
 "pkg_uninstall":"",
 "pkg_uninstall_content":"Please uninstall older version!",
 "aoeplayer_version_build":1
