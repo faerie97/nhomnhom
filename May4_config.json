@@ -13,7 +13,7 @@
 "link_download_player":"https://dl.teanime.com/aoedl/aoeplayer_1.0.6.apk",
 "enable_install_player":true,
 "package_name_player":"com.aoeplayer.apt",
-"force_update_player":false,
+"force_update_player":true,
 "pkg_uninstall":"",
 "pkg_uninstall_content":"Please uninstall older version!",
 "aoeplayer_version_build":7
