@@ -5,8 +5,6 @@
 "update_link_download":"https://dl.teanime.com/aoedl/teanime_1.3.apk",
 "update_changelog":"Fix bugs and add more links.",
 "update_isforce":true,
-"gg_analytics_key":"",
-"pkg_uninstall":"com.tea.anime",
 "player_is_gp":true,
 "title_player":"AOE Player",
 "description_player":"Recommended player for less ads and best experience!",
