@@ -1,10 +1,10 @@
 {
 "error":0,
 "message":{
-"update_version_code":4,
+"update_version_code":5,
 "update_link_download":"https://dl.teanime.com/aoedl/teanime_1.4.apk",
 "update_changelog":"Fix bugs and add more links.",
-"update_isforce":true,
+"update_is_force":true,
 "player_is_gp":true,
 "title_player":"AOE Player",
 "description_player":"Recommended player for less ads and best experience!",
