@@ -1,8 +1,8 @@
 {
 "error":0,
 "message":{
-"update_version_code":5,
-"update_link_download":"https://dl.teanime.com/aoedl/teanime_1.4.apk",
+"update_version_code":6,
+"update_link_download":"https://dl.teanime.com/aoedl/teanime_1.5.apk",
 "update_changelog":"Fix bugs and add more links.",
 "update_isforce":true,
 "player_is_gp":true,
