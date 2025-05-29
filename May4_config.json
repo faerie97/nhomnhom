@@ -1,14 +1,14 @@
 {
 "error":0,
 "message":{
-"update_version_code":6,
+"update_version_code":7,
 "update_link_download":"https://dl.teanime.com/aoedl/TeaAnime_1.6.apk",
 "update_changelog":"Fix bugs and add more links.",
 "update_isforce":true,
 "player_is_gp":true,
 "title_player":"AOE Player",
 "description_player":"Recommended player for less ads and best experience!",
-"aoeplayer_version_build":8,
+"aoeplayer_version_build":14,
 "link_download_player":"https://dl.teanime.com/aoedl/AOEPlayer_1.1.2.apk",
 "enable_install_player":false,
 "package_name_player":"com.aoeplayer.apt",
