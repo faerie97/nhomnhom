@@ -2,14 +2,14 @@
 "error":0,
 "message":{
 "update_version_code":15,
-"update_link_download":"https://dl.teanime.com/aoedl/teanime_2.4.apk",
+"update_link_download":"https://sfo3.digitaloceanspaces.com/staticfile/Teanime_2.4.apk",
 "update_changelog":"Fix bugs and add more links.",
 "update_isforce":true,
 "player_is_gp":true,
 "title_player":"AOE Player",
 "description_player":"Recommended player for less ads and best experience!",
 "aoeplayer_version_build":14,
-"link_download_player":"https://dl.teanime.com/aoedl/aoeplayer_1.1.9.apk",
+"link_download_player":"https://sfo3.digitaloceanspaces.com/staticfile/aoeplayer_1.1.9.apk",
 "enable_install_player":false,
 "package_name_player":"com.aoeplayer.apt",
 "force_update_player":true,
@@ -17,6 +17,7 @@
 "pkg_uninstall_content":"Please uninstall older version!"
 }
 }
+
 
 
 
